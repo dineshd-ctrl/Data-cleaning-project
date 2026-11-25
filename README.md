@@ -1,1 +1,1 @@
-# Data-cleaning-project
+# Mini project
